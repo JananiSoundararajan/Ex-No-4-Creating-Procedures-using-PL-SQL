@@ -43,6 +43,7 @@ SQL> begin
 
 PL/SQL procedure successfully completed.
 ```
+
 ### Output:
 ![exp4op](https://github.com/JananiSoundararajan/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/119477549/ff1469a1-c1f9-494a-bad9-23489d033f53)
 
