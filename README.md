@@ -49,5 +49,5 @@ PL/SQL procedure successfully completed.
 ![exp4op](https://github.com/JananiSoundararajan/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/119477549/ff1469a1-c1f9-494a-bad9-23489d033f53)
 
 ### Result:
-       Hence procedure is created using PL/SQL.
+       The program for creating procedure is executed successfully.
        
