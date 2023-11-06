@@ -1,5 +1,5 @@
 # Ex. No: 4 Creating Procedures using PL/SQL
-### DATE: 25.9.2023
+### DATE: 25.8.2023
 ### AIM: 
 To create a procedure using PL/SQL.
 
